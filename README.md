@@ -54,7 +54,7 @@ Install Vundle
 
 Install *vim-sublime* `.vimrc`
 
-`curl https://raw.github.com/grigio/vim-sublime/master/vimrc > $HOME/.vimrc`
+`curl https://raw.github.com/jzuijlek/vim-sublime/master/vimrc > $HOME/.vimrc`
 
 Then open `vim` and run
 
