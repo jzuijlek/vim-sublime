@@ -7,7 +7,7 @@ filetype off
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 Bundle 'gmarik/vundle'
-
+Bundle 'jphustman/CFML-10-Vim'
 Bundle 'tpope/vim-surround'
 Bundle 'gcmt/breeze.vim'
 Bundle 'kien/ctrlp.vim'
